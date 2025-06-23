@@ -8,3 +8,9 @@
 > Describe what the project is, its purpose, supported clients, primary responsibilities, and overall scope.
 
 ---
+
+# 2. Tech Stack
+
+> List the core technologies, frameworks, infrastructure, development tools, and important libraries used throughout the project.
+
+---
