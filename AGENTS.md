@@ -15,8 +15,14 @@
 
 ---
 
-# 5. Repository Structure
+# 3. Repository Structure
 
 > Describe the repository layout, major directories, and the responsibility of each component.
+
+---
+
+# 4. Critical Rules
+
+> Document the non-negotiable rules that must always be respected regardless of the task being performed.
 
 ---
