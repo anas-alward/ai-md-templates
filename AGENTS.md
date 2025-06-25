@@ -14,3 +14,9 @@
 > List the core technologies, frameworks, infrastructure, development tools, and important libraries used throughout the project.
 
 ---
+
+# 5. Repository Structure
+
+> Describe the repository layout, major directories, and the responsibility of each component.
+
+---
